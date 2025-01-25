@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/IMG_8604.jpeg
   altText: Project image
 ---
 Price: $450 NZD
