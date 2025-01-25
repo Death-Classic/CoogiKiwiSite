@@ -7,7 +7,7 @@ client: ''
 description: 'Smithsonian Coogi: A Collector’s Grail'
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/IMG_8604.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
