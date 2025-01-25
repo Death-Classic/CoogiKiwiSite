@@ -5,9 +5,8 @@ colors: colors-a
 date: '2025-01-20'
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  This stunning Coogi sweater is the perfect blend of cozy and refined, much
+  like a freshly brewed cup of coffee.
 featuredImage:
   type: ImageBlock
   url: /images/IMG_7401.jpeg
