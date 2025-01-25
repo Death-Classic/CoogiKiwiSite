@@ -16,10 +16,12 @@ media:
 bottomSections: []
 ---
 *Price: $300 NZD
+
 Tagged Size: S
+
 Condition: Excellent*
 
-**
+\*\*
 
 | Chest         | 62cm |
 | ------------- | ---- |
