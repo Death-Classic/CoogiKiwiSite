@@ -17,7 +17,16 @@ bottomSections: []
 ---
 *Price: $300 NZD
 Tagged Size: S
-Condition: Excellent* 
+Condition: Excellent*
+
+**
+
+| Chest         | 62cm |
+| ------------- | ---- |
+| Length        | 64cm |
+| Shoulders     | 54cm |
+| Sleeve Length | 54cm |
+| Hem           | 50cm |
 
 This sweater is a true work of art! The bright yellow accents immediately steal the show, creating a vibrant and eye-catching theme that feels both bold and playful. The intricate mix of zig-zag patterns, geometric shapes, and semi-organic motifs gives this piece a dynamic and layered look. Each element feels like it’s telling a story, with patterns that almost resemble abstract landscapes or tribal art.
 
