@@ -7,7 +7,7 @@ client: ''
 description: This is a zig zag Coogi - NWT!
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/IMG_7625.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
