@@ -16,7 +16,20 @@ media:
   url: /images/IMG_7401.jpeg
   altText: Project image
 ---
-Coffee Coogi ☕️☕️
+Price: $320 NZD
+
+Tagged Size: XL
+
+Condition: Good
+
+| Chest         | 67cm |
+| ------------- | ---- |
+| Length        | 67cm |
+| Shoulders     | 58cm |
+| Sleeve Length | 86cm |
+| Hem           | 70cm |
+
+
 
 This stunning Coogi sweater is the perfect blend of cozy and refined, much like a freshly brewed cup of coffee. The combination of linen and cotton creates a breathable yet robust texture, ideal for cooler weather or adding a touch of sophistication to your wardrobe. The earthy color palette captures the essence of your favorite café drinks: deep espresso browns, creamy latte tans, and soft foam-like ivory hues. Together, these tones create a warm, neutral look that’s both timeless and versatile.
 
