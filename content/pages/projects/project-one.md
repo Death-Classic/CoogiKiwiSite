@@ -15,11 +15,11 @@ media:
   altText: Project image
 bottomSections: []
 ---
-*Price: $300 NZD
+\*Price: $300 NZD
 
 Tagged Size: S
 
-Condition: Excellent*
+Condition: Excellent\*
 
 \*\*
 
@@ -39,3 +39,5 @@ The geometric patterns stand out, resembling shards of stained glass or kaleidos
 ![](/images/IMG_7626.jpeg)
 
 What makes this sweater even more remarkable is its pristine, unworn condition, complete with original tags—a rarity that adds immense value to its collectible status. Finding a Coogi sweater like this, in such immaculate shape, is becoming increasingly difficult in today’s vintage market.
+
+![](/images/IMG_7628.jpeg)
