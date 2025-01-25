@@ -1,29 +1,46 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: Coffee Coogi
 colors: colors-a
-date: '2021-12-20'
-client: Awesome client
+date: '2025-01-20'
+client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  This stunning Coogi sweater is the perfect blend of cozy and refined, much
+  like a freshly brewed cup of coffee.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/IMG_7401.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/IMG_7401.jpeg
   altText: Project image
 ---
+Price: $320 NZD
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Tagged Size: XL
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Condition: Good
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+| Chest         | 67cm |
+| ------------- | ---- |
+| Length        | 67cm |
+| Shoulders     | 58cm |
+| Sleeve Length | 86cm |
+| Hem           | 70cm |
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+This stunning Coogi sweater is the perfect blend of cozy and refined, much like a freshly brewed cup of coffee. The combination of linen and cotton creates a breathable yet robust texture, ideal for cooler weather or adding a touch of sophistication to your wardrobe. The earthy color palette captures the essence of your favorite café drinks: deep espresso browns, creamy latte tans, and soft foam-like ivory hues. Together, these tones create a warm, neutral look that’s both timeless and versatile.
+
+![](/images/IMG_7397.jpeg)
+
+What makes this piece truly special is the intricate pattern work. The swirling textures and raised details evoke the artful foam swirls atop a cappuccino, while the geometric accents add structure, much like the precision of a barista’s latte art. Some patterns seem to mimic tribal or Aztec-inspired motifs, adding a touch of heritage and storytelling to this sweater’s design. These bold details contrast beautifully with the more organic waves, creating a dynamic, layered effect that’s captivating from every angle.
+
+![](/images/IMG_7399.jpeg)
+
+This sweater is from Coogi’s classic line, known for its innovative use of premium materials like linen, silk, and cashmere. The blend of linen here gives it a slightly crisp yet soft feel, adding to its luxurious vibe. Its boxy XL fit and long arms provide a comfortable, oversized look that’s perfect for layering or pairing with slim-fit trousers for a modern edge.
+
+![](/images/IMG_7400.jpeg)
+
+Whether you’re heading to your local coffee shop or enjoying a quiet morning at home, this Coffee Coogi is as comforting and stylish as your favorite brew. Don’t miss the opportunity to add this wearable piece of art to your collection. If you’re interested, reach out for pricing and measurements—this beauty won’t last long!
