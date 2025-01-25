@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: Coogis For Sale
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
