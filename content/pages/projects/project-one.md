@@ -14,19 +14,6 @@ media:
   url: /images/IMG_7625.jpeg
   altText: Project image
 bottomSections:
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: narrow
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
   - type: MediaGallerySection
     title: Gallery
     subtitle: This is the subtitle
