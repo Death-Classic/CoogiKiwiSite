@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-d
+    colors: colors-f
     backgroundSize: full
     title: Welcome to CoogiKiwi.
     subtitle: Collector of pre-2005 vintage Coogi knitwear
