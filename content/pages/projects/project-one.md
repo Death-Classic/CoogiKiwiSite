@@ -15,13 +15,11 @@ media:
   altText: Project image
 bottomSections: []
 ---
-\*Price: $300 NZD
+Price: $300 NZD
 
 Tagged Size: S
 
-Condition: Excellent\*
-
-\*\*
+Condition: Excellent
 
 | Chest         | 62cm |
 | ------------- | ---- |
