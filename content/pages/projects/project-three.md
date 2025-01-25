@@ -4,9 +4,7 @@ title: BBQ Coogi
 colors: colors-a
 date: '2025-01-22'
 client: ''
-description: >-
-  Price: $300 NZDTagged Size: SCondition:
-  ExcellentChest62cmLength64cmShoulders54cmSleeve Length54cmHem50cm
+description: 'Smithsonian Coogi: A Collector’s Grail'
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
