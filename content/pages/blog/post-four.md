@@ -2,7 +2,7 @@
 type: PostLayout
 title: Popping tags
 colors: colors-a
-date: '2024-02-01'
+date: '2025-01-02'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
