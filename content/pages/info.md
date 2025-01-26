@@ -99,13 +99,6 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Tell me about your project
-          isRequired: true
-          width: full
-          type: TextareaFormControl
         - type: TextFormControl
           name: Desired Coogi
           label: Name
@@ -113,6 +106,13 @@ sections:
           placeholder: Your name
           width: full
           isRequired: false
+        - name: message
+          label: Message
+          hideLabel: true
+          placeholder: Tell me about your project
+          isRequired: true
+          width: full
+          type: TextareaFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
