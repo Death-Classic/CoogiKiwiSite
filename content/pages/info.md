@@ -13,11 +13,25 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      ## G’day, world!
+
+
+      I’m Levi, the one behind Coogikiwi, and I’m absolutely obsessed with all
+      things 90s—especially Coogi. There’s something magical about these
+      sweaters, from their wild patterns to their rich history, that’s earned
+      them a permanent spot in my heart. My passion for collecting has taken me
+      on a global hunt, sourcing Coogis from far and wide, though most of my
+      gems come from Japan and Australia.
+
+
+
+
+
+      Right now, I’m deep in the rabbit hole of studying every variation Coogi
+      ever made—every stitch tells a story, and I can’t wait to share what I’ve
+      discovered! Whether you’re here to nerd out over Coogi designs or snag one
+      of the beauties I’ve listed, feel free to hit me up. Let’s talk Coogi!
     media:
       type: ImageBlock
       url: /images/about.jpg
