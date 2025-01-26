@@ -4,7 +4,7 @@ title: Popping tags
 colors: colors-a
 date: '2025-01-02'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: 'What to look for, how to figure out what to pay'
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
