@@ -40,7 +40,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/Coogi Kiwi logo-03.png",
+            "url": "/images/Coogi Kiwi logo-01.png",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
