@@ -5,8 +5,8 @@ colors: colors-a
 date: '2025-01-20'
 client: ''
 description: >-
-  This stunning Coogi sweater is the perfect blend of cozy and refined, much
-  like a freshly brewed cup of coffee.
+  SOLD! This stunning Coogi sweater is the perfect blend of cozy and refined,
+  much like a freshly brewed cup of coffee.
 featuredImage:
   type: ImageBlock
   url: /images/IMG_7401.jpeg
