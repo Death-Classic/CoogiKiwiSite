@@ -4,7 +4,7 @@ title: Sizing in the world of unique jumpers
 colors: colors-a
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: A Medium may not be quite a Medium you're expecting.
 featuredImage:
   type: ImageBlock
   url: /images/IMG_7335.jpeg
