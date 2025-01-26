@@ -43,8 +43,51 @@ bottomSections:
     showFeaturedImage: true
     showReadMoreLink: true
 ---
+Vintage Coogi sweaters are celebrated for their vibrant patterns and unique textures, but when it comes to sizing, they can be a bit of a puzzle. If you’re diving into the world of Coogi, understanding the evolution of their fits and the impact of time on these garments is crucial.
+
 ![](/images/IMG_7335.jpeg)
 
-Coogis, having been sewn together from different patterns, being 30+ years old, and a product of the differing 80s and 90s fit, means that a Medium may not be quite a Medium you're expecting.
 
-Generally, mid to late 90s are more of a boxy fit. pre 90s are longer in the body. How a previous owner cared for the garment has a huge impact. Wool Coogis are worth paying extra attention to. A lot of them have shrunk over the years, or been improperly stored on hangers.
+
+## The Evolution of Coogi Fits
+
+	•	Pre-90s (1969–1989): Early Coogi sweaters often featured a longer body length, providing a more elongated silhouette. This design choice was characteristic of the era’s fashion trends.
+
+	•	Mid to Late 90s (1990–1999): As fashion shifted, Coogi adapted by introducing a boxier fit. These sweaters became wider, offering a more relaxed and oversized appearance, aligning with the streetwear aesthetics of the time.
+
+
+
+## The Impact of Age and Care
+
+Over the decades, a sweater’s journey—how it’s been worn, washed, and stored—plays a significant role in its current fit:
+
+	•	Shrinkage: Many Coogi sweaters are crafted from wool, a material prone to shrinking if not cared for properly. Improper washing or storage, especially hanging, can lead to noticeable size reductions or uneven dimensions.
+
+	•	Distortion: Look out for sweaters with uneven arm lengths or body warping, signs that they may have been mishandled or stored incorrectly over the years.
+
+
+## The Importance of Accurate Measurements
+
+Given the variability in sizing due to design changes and aging, relying solely on labeled sizes can be misleading. A “Medium” from the 80s might fit differently than a “Medium” from the 90s or today. To ensure a proper fit:
+
+	1\.	Obtain Precise Measurements: Always request or take detailed measurements of the sweater, including:
+
+	•	Chest (Pit to Pit): Measure across the chest from one armpit seam to the other.
+
+	•	Length: Measure from the top of the shoulder to the bottom hem.
+
+	•	Sleeve Length: Measure from the collar to the cuff along the outer edge.
+
+	2\.	Compare with Personal Garments: Lay a well-fitting sweater of your own flat and measure it using the same points. Compare these measurements to those of the Coogi sweater to gauge how it will fit.
+
+
+
+## Understanding Women’s Coogi Sweaters
+
+Coogi also produced sweaters tailored for women, often designed in a tunic style:
+
+	•	Longer Body: These sweaters typically have an extended length, making them suitable for pairing with leggings or as a dress.
+
+	•	Shorter Arms: To complement the tunic design, the sleeves are often slightly shorter.
+
+When considering a women’s Coogi sweater, keep these design elements in mind to ensure it aligns with your fit preferences.
