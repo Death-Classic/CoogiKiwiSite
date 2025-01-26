@@ -9,13 +9,6 @@ featuredImage:
   type: ImageBlock
   url: /images/IMG_7335.jpeg
   altText: Post thumbnail image
-backgroundImage:
-  type: BackgroundImage
-  url: /images/gallery-3.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 20
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
