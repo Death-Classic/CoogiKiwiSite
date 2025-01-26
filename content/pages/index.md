@@ -25,8 +25,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-36
-          - pb-24
+          - pt-24
+          - pb-11
           - pl-4
           - pr-4
         alignItems: center
@@ -113,8 +113,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-12
-          - pb-24
+          - pt-8
+          - pb-12
           - pl-4
           - pr-4
         justifyContent: center
@@ -152,8 +152,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-28
-          - pb-48
+          - pt-11
+          - pb-14
           - pl-4
           - pr-4
         justifyContent: center
