@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: Let there be... Cuggi?
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image6.jpg
+  url: /images/P0.jpg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
@@ -43,20 +43,14 @@ bottomSections:
     showFeaturedImage: true
     showReadMoreLink: true
 ---
-Everyone knows Coogi. Not many people are as keen on CUGGI. CUGGI was from 1966-1986. Originally designed to sound aboriginal. It was the original brand name of Coogi and lasted until. 
+The brand now known as Coogi was originally established as “Cuggi” in 1969 by Jacky Taranto in Melbourne, Australia. The name was changed to “Coogi” in 1987 to evoke a more indigenous Australian sound. 
 
+![](https://preview--coogikiwi-55628.stackbit.dev/images/P0.jpg)
 
+During the Cuggi era (1969–1987), the brand’s knitwear featured relatively basic geometric patterns. It’s speculated that this simplicity was due to the limitations of the looms or design techniques used at the time. As the brand transitioned to Coogi, the designs evolved into more intricate and colorful patterns, incorporating complex textures and vibrant hues that became the brand’s signature.
 
-The label looked like this. 
+Interestingly, some patterns from the Cuggi period remained in production after the rebranding. For instance, the “Angry Snake” design continued to be a part of Coogi’s lineup.
 
+The transition from Cuggi to Coogi also saw a period where both names appeared on the labels, making these pieces especially collectable. This rebranding marked a shift in design philosophy, moving from simpler geometric styles to the elaborate, multicolored patterns that Coogi is celebrated for today.
 
-
-There was a transition where both Cuggi and Coogi were both on the label. 
-
-
-
-Generally the patterning was relatively more basic and consisted of geometric styles. Assume that perhaps there was a loom or design change. 
-
-
-
-Some Cuggi patterns remained in production when moving to Coogi. Angry snake for instance. 
+Coogi’s distinctive knitwear gained international acclaim, particularly in the 1990s, becoming synonymous with urban culture and luxury fashion. The brand’s quality and unique aesthetic has ensured its pieces remain highly sought after by collectors and fashion enthusiasts alike.

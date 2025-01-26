@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Welcome to CoogiKiwi.
-    subtitle: Collector of pre-2005 vintage Coogi knitwear.
+    subtitle: Collector of pre-2000 vintage Coogi knitwear.
     styles:
       self:
         height: auto
@@ -138,7 +138,6 @@ sections:
     posts:
       - content/pages/blog/post-six.md
       - content/pages/blog/post-seven.md
-      - content/pages/blog/post-three.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
