@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: And in the beginning there was GUGGI
+title: And in the beginning there was CUGGI
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
