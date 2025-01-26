@@ -32,7 +32,7 @@ sections:
       Coogi!
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/IMG_6486.JPG
       altText: Hero image
     styles:
       self:
