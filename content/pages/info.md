@@ -101,7 +101,7 @@ sections:
           type: EmailFormControl
         - type: TextFormControl
           name: Desired Coogi
-          label: Name
+          label: Desired Coogi
           hideLabel: true
           placeholder: Your name
           width: full
