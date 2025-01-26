@@ -43,20 +43,14 @@ bottomSections:
     showFeaturedImage: true
     showReadMoreLink: true
 ---
-Everyone knows Coogi. Not many people are as keen on CUGGI. CUGGI was from 1966-1986. Originally designed to sound aboriginal. It was the original brand name of Coogi and lasted until. 
+Everyone knows Coogi. Not many people are as keen on CUGGI. CUGGI was from 1966-1986. Originally designed to sound aboriginal. It was the original brand name of Coogi and lasted until.
 
+The label looked like this.
 
+![](/images/P0.jpg)
 
-The label looked like this. 
+There was a transition where both Cuggi and Coogi were both on the label.
 
+Generally the patterning was relatively more basic and consisted of geometric styles. Assume that perhaps there was a loom or design change.
 
-
-There was a transition where both Cuggi and Coogi were both on the label. 
-
-
-
-Generally the patterning was relatively more basic and consisted of geometric styles. Assume that perhaps there was a loom or design change. 
-
-
-
-Some Cuggi patterns remained in production when moving to Coogi. Angry snake for instance. 
+Some Cuggi patterns remained in production when moving to Coogi. Angry snake for instance.
