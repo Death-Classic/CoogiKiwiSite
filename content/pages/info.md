@@ -103,7 +103,7 @@ sections:
           name: Desired Coogi
           label: Desired Coogi
           hideLabel: true
-          placeholder: Your name
+          placeholder: Desired Coogi
           width: full
           isRequired: false
         - name: message
