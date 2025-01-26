@@ -41,7 +41,7 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/Coogi Kiwi logo-01.png",
-            "altText": "altText of the image",
+            "altText": "CoogiKiwi",
             "caption": "Caption of the image",
             "elementId": ""
         }
