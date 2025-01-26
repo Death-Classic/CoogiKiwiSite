@@ -1,12 +1,12 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/Coogi Kiwi logo-01.png",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "COOGIKIWI",
-        "isTitleVisible": true,
+        "title": "",
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
@@ -41,8 +41,8 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/Coogi Kiwi logo-01.png",
-            "altText": "altText of the image",
-            "caption": "Caption of the image",
+            "altText": "CoogiKiwi",
+            "caption": "CoogiKiwi Logo",
             "elementId": ""
         }
     },
@@ -51,42 +51,45 @@
         "primaryLinks": [
             {
                 "type": "Link",
+                "label": "Projects",
+                "altText": "Projects",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
+                "altText": "Info",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
             "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
-            "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
+            "phoneAltText": "Call us",
+            "email": "john@doe.com",
+            "emailAltText": "Email us",
+            "address": "312 Lovely Street, NY",
+            "addressAltText": "Address",
+            "elementId": ""
         },
-        "copyrightText": "Powered by Coogi",
+        "copyrightText": "CoogiKiwi 2025\n",
         "styles": {
             "self": {
                 "width": "narrow",
                 "padding": [
                     "pt-16",
                     "pb-16",
-                    "pr-4",
-                    "pl-4"
+                    "pl-4",
+                    "pr-4"
                 ]
             }
         }
