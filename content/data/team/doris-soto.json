@@ -1,10 +1,5 @@
 {
     "type": "Person",
     "firstName": "Levi",
-    "lastName": "Rusden",
-    "image": {
-        "type": "ImageBlock",
-        "url": "/images/about.jpg",
-        "altText": "Doris Soto photo"
-    }
+    "lastName": "Rusden"
 }
