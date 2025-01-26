@@ -232,4 +232,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    text: >
+      Give me an email on the below to arrange a purchase of a Coogi listed
+      here.
 ---
