@@ -50,6 +50,8 @@ bottomSections:
     showFeaturedImage: true
     showReadMoreLink: true
 ---
-Coogis, having been sewn together from different patterns, being 30+ years old, and a product of the differing 80s and 90s fit, means that a Medium may not be quite a Medium you're expecting. 
+![](/images/IMG_7335.jpeg)
 
-Generally, mid to late 90s are more of a boxy fit. pre 90s are longer in the body. How a previous owner cared for the garment has a huge impact. Wool Coogis are worth paying extra attention to. A lot of them have shrunk over the years, or been improperly stored on hangers. 
+Coogis, having been sewn together from different patterns, being 30+ years old, and a product of the differing 80s and 90s fit, means that a Medium may not be quite a Medium you're expecting.
+
+Generally, mid to late 90s are more of a boxy fit. pre 90s are longer in the body. How a previous owner cared for the garment has a huge impact. Wool Coogis are worth paying extra attention to. A lot of them have shrunk over the years, or been improperly stored on hangers.
