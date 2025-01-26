@@ -169,7 +169,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: 'Want to purchase a piece? '
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -202,11 +202,6 @@ sections:
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
@@ -232,4 +227,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    text: >
+      Give me an email on the below to arrange a purchase of a Coogi listed
+      here.
 ---
