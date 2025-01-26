@@ -102,7 +102,7 @@ sections:
         - type: TextFormControl
           name: Desired Coogi
           label: Name
-          hideLabel: false
+          hideLabel: true
           placeholder: Your name
           width: full
           isRequired: false
