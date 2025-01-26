@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: Let there be... Cuggi?
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image6.jpg
+  url: /images/P0.jpg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
