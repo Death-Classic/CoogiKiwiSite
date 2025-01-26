@@ -106,6 +106,13 @@ sections:
           isRequired: true
           width: full
           type: TextareaFormControl
+        - type: TextFormControl
+          name: Desired Coogi
+          label: Name
+          hideLabel: false
+          placeholder: Your name
+          width: full
+          isRequired: false
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
