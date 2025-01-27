@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Popping tags
-colors: colors-c
+colors: colors-d
 date: '2025-01-02'
 author: content/data/team/doris-soto.json
 excerpt: 'What to look for, how to figure out what to pay'
