@@ -212,15 +212,16 @@
     /* Add this under your existing .sb-header-logo styles */
 
     .sb-header-logo img {
-        @apply w-32 h-auto;
-        /* Adjust width (8rem), keep aspect ratio */
+        max-width: 350px;
+        /* Base size */
+        height: auto;
+        /* Maintain aspect ratio */
     }
 
-    /* Optionally, add responsive styles */
     @media (min-width: 768px) {
         .sb-header-logo img {
-            @apply w-48;
-            /* Increase width for medium screens (12rem) */
+            max-width: 200px;
+            /* Larger size for medium+ screens */
         }
     }
 
