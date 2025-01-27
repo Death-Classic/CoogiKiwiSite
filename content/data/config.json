@@ -52,7 +52,7 @@
             {
                 "type": "Link",
                 "label": "For Sale",
-                "altText": "Projects",
+                "altText": "For Sale",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
