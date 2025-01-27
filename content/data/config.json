@@ -73,7 +73,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "",
             "phoneAltText": "Call us",
             "email": "john@doe.com",
             "emailAltText": "Email us",
