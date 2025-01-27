@@ -51,8 +51,8 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Projects",
-                "altText": "Projects",
+                "label": "For Sale",
+                "altText": "For Sale",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
@@ -73,11 +73,11 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "",
             "phoneAltText": "Call us",
-            "email": "john@doe.com",
+            "email": "levirusden@gmail.com",
             "emailAltText": "Email us",
-            "address": "312 Lovely Street, NY",
+            "address": "With love from Auckland, NZ",
             "addressAltText": "Address",
             "elementId": ""
         },
