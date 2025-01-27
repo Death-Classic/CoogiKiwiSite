@@ -60,7 +60,6 @@ Over the decades, a sweater’s journey—how it’s been worn, washed, and stor
 
 *   Shrinkage: Many Coogi sweaters are crafted from wool, a material prone to shrinking if not cared for properly. Improper washing or storage, especially hanging, can lead to noticeable size reductions or uneven dimensions.
 
-
 *   Distortion: Look out for sweaters with uneven arm lengths or body warping, signs that they may have been mishandled or stored incorrectly over the years.
 
 ## The Importance of Accurate Measurements
@@ -71,8 +70,7 @@ Given the variability in sizing due to design changes and aging, relying solely 
 
 Coogi also produced sweaters tailored for women, often designed in a tunic style. These had:
 
-*   Longer Body: These sweaters typically have an extended length, making them suitable for pairing with leggings or as a dress.
+*   These sweaters typically have an extended length, making them suitable for pairing with leggings or as a dress.
 
-
-*   Shorter Arms: To complement the tunic design, the sleeves are often slightly shorter.
+*   To complement the tunic design, the sleeves are often slightly shorter.
 
