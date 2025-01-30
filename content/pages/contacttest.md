@@ -7,70 +7,46 @@ sections:
     variant: variant-a
     title: This in an empty page
     subtitle: The section subtitle
-    text: >-
+    text: |-
       # Contact Us
 
-
-      We’d love to hear from you! Please fill out the form below, and we’ll get
-      back to you as soon as possible.
-
+      We’d love to hear from you! Please fill out the form below.
 
       <form
         name="contact"
         method="POST"
-        data-netlify="true"
         action="/success"
+        netlify
+        netlify-honeypot="bot-field"
         style="display: flex; flex-direction: column; gap: 1rem;"
       >
-        <!-- Hidden input for Netlify Forms -->
+        <!-- Hidden field to avoid spam bots -->
         <input type="hidden" name="form-name" value="contact" />
+        <p hidden>
+          <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+        </p>
 
         <label>
           Name:
-          <input
-            type="text"
-            name="name"
-            required
-            style="padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px; width: 100%;"
-          />
+          <input type="text" name="name" required />
         </label>
 
         <label>
           Email:
-          <input
-            type="email"
-            name="email"
-            required
-            style="padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px; width: 100%;"
-          />
+          <input type="email" name="email" required />
         </label>
 
         <label>
           Coogi to Buy:
-          <input
-            type="text"
-            name="coogi"
-            required
-            style="padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px; width: 100%;"
-          />
+          <input type="text" name="coogi" required />
         </label>
 
         <label>
           Message:
-          <textarea
-            name="message"
-            rows="4"
-            required
-            style="padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px; width: 100%;"
-          ></textarea>
+          <textarea name="message" rows="4" required></textarea>
         </label>
 
-        <button
-          type="submit"
-          style="background-color: #007BFF; color: white; padding: 0.75rem; border: none; border-radius: 4px; cursor: pointer;"
-        >
-          Submit
-        </button>
+        <button type="submit">Submit</button>
       </form>
     elementId: ''
     styles:
