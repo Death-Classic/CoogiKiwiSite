@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: 'Thanks for reaching out! '
-    subtitle: The section subtitle
+    subtitle: ''
     text: |
       I'll be in touch shortly to discuss your order.
     elementId: ''
